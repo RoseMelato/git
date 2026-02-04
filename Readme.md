@@ -13,3 +13,4 @@ Each person on this team has a unique superpower — add yours to `superpowers.m
 5. Add your name and superpower to `superpowers.md`
 6. Commit, push, and open a pull request
 7. (Optional) Review a teammate’s pull request
+8. Please use a txt file to document each step (git commands and file changes)
