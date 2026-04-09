@@ -1,0 +1,8 @@
+1. Forked the file by clicking the dropdown on the fork button then create a "new fork"
+2. Created an issue by clicking on issues > new issue > assign to myself, then create
+4. Created a branch called feature/Rose using: git checkout -b feature/rose
+5. Modified the superpowers.md file by adding my name and superpower.
+6. commited the changes by first : 
+    1. perfoming git add . to stage the changed files for commit.
+    2. commited the changes by performing: git commit -m "Added my name and my superpower".
+
