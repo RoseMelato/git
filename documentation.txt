@@ -1,5 +1,6 @@
 1. Forked the file by clicking the dropdown on the fork button then create a "new fork"
-2. Created an issue by clicking on issues > new issue > assign to myself, then create
+2. cloned the forked git repo by copying the repo link on my fork repo and used: git clone https://github.com/RoseMelato/git.git to have the repo on my local machine
+3. Created an issue by clicking on issues > new issue > assign to myself, then create
 4. Created a branch called feature/Rose using: git checkout -b feature/rose
 5. Modified the superpowers.md file by adding my name and superpower.
 6. commited the changes by first : 
