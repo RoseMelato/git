@@ -5,4 +5,4 @@
 6. commited the changes by first : 
     1. perfoming git add . to stage the changed files for commit.
     2. commited the changes by performing: git commit -m "Added my name and my superpower".
-7. perfomed: git push to push my changes to github.
+7. perfomed: git push --set-upstream origin feature/Rose to push my changes to github.
